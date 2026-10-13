@@ -1,0 +1,19 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="936" height="449" viewBox="0 0 936 449" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="-75" y="-85" width="1136" height="649"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(50px);clip-path:url(#bgblur_0_0_79_clip_path);height:100%;width:100%"></div></foreignObject><g id="Rectangle 346240907" filter="url(#filter0_d_0_79)" data-figma-bg-blur-radius="100">
+<path d="M0 120C0 97.909 17.9086 80 40 80H203.774C221.076 80 237.535 72.5312 248.929 59.5103L283.072 20.4897C294.465 7.4688 310.924 0 328.226 0H896C918.091 0 936 17.9086 936 40V409C936 431.091 918.091 449 896 449H40C17.9086 449 0 431.091 0 409V120Z" fill="#F4FBFF" shape-rendering="crispEdges"/>
+<path d="M328.227 1H896C917.539 1 935 18.4609 935 40V409C935 430.539 917.539 448 896 448H40C18.4609 448 1 430.539 1 409V120C1 98.4609 18.4609 81 40 81H203.773C221.363 81 238.098 73.4067 249.681 60.1689L283.824 21.1484C295.028 8.3446 311.213 1 328.227 1Z" stroke="white" stroke-width="2" shape-rendering="crispEdges"/>
+</g>
+<defs>
+<filter id="filter0_d_0_79" x="-75" y="-85" width="1136" height="649" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="10"/>
+<feGaussianBlur stdDeviation="12.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.03 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_79"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_79" result="shape"/>
+</filter>
+<clipPath id="bgblur_0_0_79_clip_path" transform="translate(75 85)"><path d="M25 135C25 112.909 42.9086 95 65 95H228.774C246.076 95 262.535 87.5312 273.929 74.5103L308.072 35.4897C319.465 22.4688 335.924 15 353.226 15H921C943.091 15 961 32.9086 961 55V424C961 446.091 943.091 464 921 464H65C42.9086 464 25 446.091 25 424V135Z"/>
+</clipPath></defs>
+</svg>
